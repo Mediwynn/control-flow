@@ -25,4 +25,4 @@ match operation:
             print("ERROR cannot divide by 0")
 
     case _:
-        print("ERROR_INVALID_INPUT")
+        print("Cannot divide by zero.")
